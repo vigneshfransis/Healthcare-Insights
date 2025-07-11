@@ -1,4 +1,5 @@
 Healthcare Insights Dashboard
+
 A comprehensive healthcare analytics dashboard built in Microsoft Power BI to analyse patient wait times, admission types, and specialty ward performance. This interactive dashboard provides healthcare administrators with actionable insights through intuitive data visualization and trend analysis.
 
 📊 Dashboard Overview
